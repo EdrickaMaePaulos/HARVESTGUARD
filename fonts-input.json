@@ -1,0 +1,9 @@
+{
+  "fonts": [
+    {"family":"Segoe UI","style":"Bold","fontId":"C:\\WINDOWS\\FONTS\\SEGOEUIB.TTF","source":"LOCAL","cssFamily":"Segoe UI:Bold"},
+    {"family":"Segoe UI","style":"Regular","fontId":"C:\\WINDOWS\\FONTS\\SEGOEUI.TTF","source":"LOCAL","cssFamily":"Segoe UI:Regular"},
+    {"family":"Segoe UI","style":"Semibold","fontId":"C:\\WINDOWS\\FONTS\\SEGUISB.TTF","source":"LOCAL","cssFamily":"Segoe UI:Semibold"},
+    {"family":"Cousine","style":"Bold","fontId":"Cousine-Bold_2","source":"GOOGLE","cssFamily":"Cousine:Bold"},
+    {"family":"Cousine","style":"Regular","fontId":"Cousine-Regular_1","source":"GOOGLE","cssFamily":"Cousine:Regular"}
+  ]
+}

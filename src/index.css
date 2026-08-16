@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Cousine:ital,wght@0,400;0,700&display=swap');
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Cousine:Bold';
+  src: url('https://static.figma.com/font/Cousine-Bold_2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cousine:Regular';
+  src: url('https://static.figma.com/font/Cousine-Regular_1') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Segoe UI:Bold';
+  src: local('Segoe UI Bold'), local('SegoeUI-Bold');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Segoe UI:Regular';
+  src: local('Segoe UI'), local('SegoeUI');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Minimalist always-visible scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 transparent;
+}
+*::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+@font-face {
+  font-family: 'Segoe UI:Semibold';
+  src: local('Segoe UI Semibold'), local('SegoeUI-Semibold'), local('Segoe UI SemiBold');
+  font-weight: 600;
+  font-style: normal;
+}
